@@ -1,7 +1,15 @@
 <div align="center">
   <img src="./retro-image.png" width="800" alt="My retro banner">
-</div>
+</div>  
+
+
+
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
+
+
+
+
+
 ## 🤝 Connect with Me
 
 <div align="center">
