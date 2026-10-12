@@ -35,8 +35,7 @@
   <a href="https://www.hackerrank.com/profile/25ec189" target="_blank">
     <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.codedex.io/@Basheer-21" target="_blank">
-    <img src="https://img.shields.io/badge/CODEDEX-1E1E2E?style=for-the-badge&logo=data:image/png;base64,PASTE_BASE64_HERE" alt="Codedex" />
+    <a href="https://www.codedex.io/@Basheer-21" target="_blank">
+    <img src="codedex-icon.png" alt="Codedex" height="28" />
   </a>
-
 </div>
