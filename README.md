@@ -23,5 +23,24 @@
 <a href="https://www.instagram.com/basheer.io/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+<a href="https://discord.com/users/mikey._21
+" class="discord" target="_blank">
+    <i class="fab fa-discord"></i> DISCORD
+</a>
+
+<a href="https://www.reddit.com/user/Onlythine_/" class="reddit" target="_blank">
+    <i class="fab fa-reddit-alien"></i> REDDIT
+</a>
+<a href="https://leetcode.com/salmanbasheer-21/" class="leetcode" target="_blank">
+    <i class="fa-solid fa-code"></i> LEETCODE
+</a>
+
+<a href="https://www.hackerrank.com/profile/25ec189" class="hackerrank" target="_blank">
+    <i class="fa-brands fa-hackerrank"></i> HACKERRANK
+</a>
+
+<a href="https://www.codedex.io/@Basheer-21" class="codedex" target="_blank">
+    <i class="fa-solid fa-terminal"></i> CODEDEX
+</a>
 
 </div>
