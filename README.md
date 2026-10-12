@@ -23,24 +23,20 @@
 <a href="https://www.instagram.com/basheer.io/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://discord.com/users/mikey._21
-" class="discord" target="_blank">
-    <i class="fab fa-discord"></i> DISCORD
-</a>
-
-<a href="https://www.reddit.com/user/Onlythine_/" class="reddit" target="_blank">
-    <i class="fab fa-reddit-alien"></i> REDDIT
-</a>
-<a href="https://leetcode.com/salmanbasheer-21/" class="leetcode" target="_blank">
-    <i class="fa-solid fa-code"></i> LEETCODE
-</a>
-
-<a href="https://www.hackerrank.com/profile/25ec189" class="hackerrank" target="_blank">
-    <i class="fa-brands fa-hackerrank"></i> HACKERRANK
-</a>
-
-<a href="https://www.codedex.io/@Basheer-21" class="codedex" target="_blank">
-    <i class="fa-solid fa-terminal"></i> CODEDEX
-</a>
+<a href="https://discord.com/users/YOUR_NUMERIC_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.reddit.com/user/Onlythine_/" target="_blank">
+    <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="https://leetcode.com/salmanbasheer-21/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/25ec189" target="_blank">
+    <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.codedex.io/@Basheer-21" target="_blank">
+    <img src="https://img.shields.io/badge/CODEDEX-1E1E2E?style=for-the-badge&logo=data:image/png;base64,PASTE_BASE64_HERE" alt="Codedex" />
+  </a>
 
 </div>
