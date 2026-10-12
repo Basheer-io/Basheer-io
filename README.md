@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="./retro-image.png" width="100" alt="My retro banner">
+  <img src="./retro-image.png" width="1000" alt="My retro banner">
 </div>  
 
 
