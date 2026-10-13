@@ -8,7 +8,8 @@
 
 
 ## Coding Platforms < > 
-<div>  <a href="https://leetcode.com/salmanbasheer-21/" target="_blank" rel="noopener noreferrer">
+<div align="center">  
+  <a href="https://leetcode.com/salmanbasheer-21/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="https://www.hackerrank.com/profile/25ec189" target="_blank" rel="noopener noreferrer">
