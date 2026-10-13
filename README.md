@@ -26,6 +26,9 @@
 <a href="https://discord.com/users/771093152890748968" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
+<a href="https://open.spotify.com/user/31pqe26papcbrgykxk37j4ih2lje?si=b1a779cfe42b47a5" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</a>
 <a href="https://www.reddit.com/user/Onlythine_/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
