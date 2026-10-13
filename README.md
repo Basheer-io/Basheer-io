@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
 <a href="https://www.codedex.io/@Basheer-21" target="_blank" rel="noopener noreferrer">
-  <img src="codedex-white-background.png" alt="Codedex" height="28" />
+  <img src="codedex-white-background.png" alt="Codedex" height="26" />
 </a> 
 </div>
 
