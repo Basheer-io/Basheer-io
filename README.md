@@ -7,7 +7,17 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 
-
+## Coding Platforms < > 
+<div>  <a href="https://leetcode.com/salmanbasheer-21/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.hackerrank.com/profile/25ec189" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+<a href="https://www.codedex.io/@Basheer-21" target="_blank" rel="noopener noreferrer">
+  <img src="codedex-icon.png" alt="Codedex" height="28" />
+</a> 
+</div>
 
 
 ## 🌐 Find Me Online
@@ -32,14 +42,7 @@
 <a href="https://www.reddit.com/user/Onlythine_/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
-<a href="https://leetcode.com/salmanbasheer-21/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://www.hackerrank.com/profile/25ec189" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://www.codedex.io/@Basheer-21" target="_blank" rel="noopener noreferrer">
-  <img src="codedex-icon.png" alt="Codedex" height="28" />
-</a>
+
 
 </div>
+
