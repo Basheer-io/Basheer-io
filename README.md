@@ -21,6 +21,9 @@
 <a href="https://www.codedex.io/@Basheer-21" target="_blank" rel="noopener noreferrer">
   <img src="codedex-white-background.png" alt="Codedex" height="26" />
 </a> 
+<a href="https://www.codedex.io/@Basheer-21" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CODEDEX-FFD600?style=for-the-badge&logo=gnubash&logoColor=black" alt="Codedex" />
+</a>
   
 </div>
 
