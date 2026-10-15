@@ -18,6 +18,9 @@
 <a href="https://www.codedex.io/@Basheer-21" target="_blank" rel="noopener noreferrer">
   <img src="codedex-white-background.png" alt="Codedex" height="26" />
 </a> 
+  <a href="https://www.codechef.com/users/basheer_21" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
 </div>
 
 
