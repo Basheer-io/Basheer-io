@@ -7,7 +7,7 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 
-## Coding Platforms < > 
+## < ! > Coding Platforms 
 <div align="center">  
   <a href="https://leetcode.com/salmanbasheer-21/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
@@ -47,3 +47,14 @@
 
 </div>
 
+## 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<br>
+
+
+![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
+
+</div>
