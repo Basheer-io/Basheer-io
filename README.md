@@ -49,7 +49,7 @@
 
 ## 
 
-
+<div>
 
 ![GitHub Followers](https://img.shields.io/github/followers/Basheer-io?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Basheer-io?style=social)
