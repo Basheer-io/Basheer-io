@@ -50,11 +50,11 @@
 ## 
  <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<p align="center"><img src = "./ Github.png" align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
 <br>
 
 
-![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/Basheer-io?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/Basheer-io?style=social)
 
 </div>
