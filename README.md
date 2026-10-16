@@ -1,5 +1,7 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Welcome!)
-## HOLA!!👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=02D9F7&center=true&vCenter=true&width=800&height=80&repeat=true&lines=Hi,+I'm+Salman+Basheer+👋;Coder+from+India+🇮🇳;Fashionably+late,+always+shipping+⏰;Fortis+Fortuna+Adiuvat+🍀" alt="Typing SVG" />
+</p>
+## 
  <div align="center">
   <img src="./octocat-1792125644505.png" width="1000" alt="My Octocat">
 </div>  
