@@ -1,5 +1,7 @@
-<div align="left">
-  <img src="./Github-Banner.png" width="1000" alt="My retro banner">
+
+## HOLA!!👋
+ <div align="center">
+  <img src="./octocat-1792125644505.png" width="1000" alt="My Octocat">
 </div>  
 
 
@@ -60,9 +62,4 @@
 ![GitHub Followers](https://img.shields.io/github/stars/Basheer-io?style=social)
 
 </div>
-
-## 
- <div align="center">
-  <img src="./octocat-1792125644505.png" width="1000" alt="My Octocat">
-</div>  
 
