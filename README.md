@@ -1,10 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&height=70&lines=PLAYER+1+READY...;SALMAN+BASHEER...;LOADING...+TARDY+BUT+SHIPPING+:3" alt="Typing SVG" />
-</p>
-
-<p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpqN3N1enp2ZjJtb3libHY1bzB5MjNiaGxibnJia2pweXB5M2Y1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=39FF14&vCenter=true&width=600&height=70&lines=SALMAN+BASHEER" alt="Typing SVG" />
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpqN3N1enp2ZjJtb3libHY1bzB5MjNiaGxibnJia2pweXB5M2Y1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ## Hii👋
  <div align="center">
