@@ -1,10 +1,10 @@
 <table width="100%">
   <tr>
     <td align="left" valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=39FF14&vCenter=true&width=800&height=70&lines=Hola!+I'm+SALMAN+BASHEER+👋+👋" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=39FF14&vCenter=true&width=800&height=70&lines=Hola!+I'm+SALMAN+BASHEER+👋" alt="Typing SVG" />
     </td>
     <td align="right" valign="middle">
-      <img src="https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM" width="300" />
+      <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="300" alt="Hacker meme GIF" />
     </td>
   </tr>
 </table>
