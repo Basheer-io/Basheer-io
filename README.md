@@ -38,7 +38,9 @@
 </div>
 
 
-## 🌐 Find Me Online
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, learning together, and discussing technology.
 
 <div align="center">
 
