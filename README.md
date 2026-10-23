@@ -66,12 +66,3 @@ I'm always open to collaborating on interesting projects, learning together, and
 
 </div>
 
-## 
-
-<div align ="center">
-
-![GitHub Followers](https://img.shields.io/github/followers/Basheer-io?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/Basheer-io?style=social)
-
-</div>
-
