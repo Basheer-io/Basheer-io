@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=39FF14&vCenter=true&width=800&height=70&lines=Hola!+I'm+SALMAN+BASHEER+👋" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00E5FF&vCenter=true&width=800&height=70&lines=Ciao+I'm+SALMAN+BASHEER+👋" alt="Typing SVG" />
       <br />
       <img src="./octocat-1792125644505.png" width="400" alt="My Octocat" />
     </td>
