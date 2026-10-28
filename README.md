@@ -1,20 +1,12 @@
 <table width="100%">
   <tr>
     <td align="center" valign="middle">
-      <table>
-        <tr>
-          <td valign="middle">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00E5FF&vCenter=true&width=520&height=70&lines=Ciao+I'm+SALMAN+BASHEER" alt="Typing SVG" />
-          </td>
-          <td valign="middle">
-            <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2615.svg" height="30" alt="coffee" />
-          </td>
-        </tr>
-      </table>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00E5FF&vCenter=true&width=800&height=70&lines=Ciao+I'm+SALMAN+BASHEER+☕" alt="Typing SVG" />
+      <br />
       <img src="./octocat-1792125644505.png" width="400" alt="My Octocat" />
     </td>
     <td align="right" valign="middle">
-      <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="250" alt="Hacker meme GIF" />
+      <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="300" alt="Hacker meme GIF" />
     </td>
   </tr>
 </table>
