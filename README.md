@@ -17,7 +17,7 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 
-## < ! > Coding Platforms 
+## </> Coding Platforms 
 <div align="center">  
   <a href="https://leetcode.com/salmanbasheer-21/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
