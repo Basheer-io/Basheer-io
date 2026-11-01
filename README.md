@@ -11,6 +11,9 @@
   </tr>
 </table>
 
+#
+ - name: git-profile-koi
+  uses: yalongwastaken/git-koi@v1.0.2
 
 ##
 
