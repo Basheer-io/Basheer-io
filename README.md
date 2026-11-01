@@ -11,8 +11,9 @@
   </tr>
 </table>
 
-## 
-   ![My koi](https://raw.githubusercontent.com/Basheer-io/Basheer-io/main/koi/koi.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Basheer-io/Basheer-io/main/koi/koi.gif" alt="My koi" width="400" />
+</div>
 
 ##
 
